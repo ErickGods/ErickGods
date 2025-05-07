@@ -1,7 +1,7 @@
 
 
 
-  ![Status](./profile-3d-contrib/profile-gitblocks.svg)
+  ![Status](./profile-3d-contrib/profile-gitblock.svg)
   
 
   
