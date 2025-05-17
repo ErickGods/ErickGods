@@ -23,7 +23,10 @@
    <div align="center" >
      <img src="https://github-profile-trophy.vercel.app/?username=erickgods&row=1&column=6&theme=flat&margin-w=15&margin-h=15"/>
   </div>
-  
+
+  <div align="center" >
+     <a href="https://erickgods.github.io/GitFolio_v2/"/>
+  </div>
  
 
 
