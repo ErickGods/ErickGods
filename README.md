@@ -12,7 +12,8 @@
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,figma,github,discord,obsidian,notion,python,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,figma,github,discord,obsidian,notion,python,linkedin,instagram" 
+  <a href="https://erickgods.github.io/GitFolio_v2/"/>
 </a>
   <br />
 
