@@ -1,4 +1,19 @@
+# Olá, eu sou o Erick!
+<p align="left">
+  Desenvolvedor por ocasião, comprometido a criar soluções modernas, funcionais e com propósito para áreas de negócios. <br>
+ Tenho focado meus estudos em <strong>Node.js</strong> e <strong>React</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada.
+</p>
 
+## Sobre mim
+
+
+- 🖥️ Técnico em Mecatrônica.
+- 🎓 Graduando em Engenharia de Automação e Controle.
+- 🎓 Graduando em Big Data e Inteligência Analítica.
+- 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack para aplicações de Business Intelligence as áreas de negócios.
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+
+---
 
 
   ![Status](./profile-3d-contrib/profile-season-animate.svg)
