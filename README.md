@@ -10,7 +10,7 @@
 - 🖥️ Técnico em Mecatrônica.
 - 🎓 Graduando em Engenharia de Automação e Controle.
 - 🎓 Graduando em Big Data e Inteligência Analítica (Data Science).
-- 📚 Estudando JavaScript, Node.js, React e desenvolvimento fullstack para aplicações de Business Intelligence as áreas de negócios.
+- 📚 Estudando Node.js, React e desenvolvimento fullstack para aplicações de Business Intelligence as áreas de negócios.
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
 
 ---
