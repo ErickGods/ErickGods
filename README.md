@@ -2,7 +2,7 @@
 
 # Erick Dias · ErickGods
 
-**Data Engineer in the making · QA Analyst @ Hyundai Motor Brazil · Builder of things with purpose**
+**Data Engineer · Solutions Architect @ EMS Group · Builder of things with purpose**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erickpdias-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickpdias/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitFolio-1B3A5C?style=flat&logo=github&logoColor=white)](https://erickgods.github.io/GitFolio_v2/)
@@ -14,7 +14,7 @@
 
 ## Quem sou eu
 
-Sou Engenheiro de Automação (em formação) com atuação em **Quality Assurance e Engenharia de Dados na Hyundai Motor Brasil**. No dia a dia, construo pipelines de dados, desenvolvo automações com Power Platform e analiso indicadores de qualidade de campo para uma das maiores montadoras do mundo.
+Sou Engenheiro de Automação com atuação em **Quality Assurance e Engenharia de Dados na Hyundai Motor Brasil**. No dia a dia, construo pipelines de dados, desenvolvo automações com Power Platform e analiso indicadores de qualidade de campo para uma das maiores montadoras do mundo.
 
 Paralelamente, estou em transição ativa para a área de **Data Engineering** — estudando Python, SQL, PySpark e arquitetura de dados em nuvem, com projetos reais que testam o que aprendo.
 
